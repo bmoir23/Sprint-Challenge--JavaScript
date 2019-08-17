@@ -48,6 +48,7 @@ a function takes a bunch of inputs and returns a value, but a method is internal
 4) whenever call or apply methods are used, this is explicitly defined
 
 5. Why do we need super() in an extended class?
+because it calls the parent function when used in a nested one
 
 ## Project Set up
 
